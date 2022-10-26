@@ -10,6 +10,7 @@ var B
 if (isIE () && isIE () < 10) {
 	B=new XDomainRequest();
 	window.onload = ie8test;
+	ie8test();
 } else {
 	B=new XMLHttpRequest();
 	ie8test()
