@@ -5,4 +5,4 @@ Sitemap: https://nsfwskins.github.io/sitemap.xml
 
 Disallow: /urls.bin
 Disallow: /urls.hex
-Disallow: /-/id.css
+Disallow: /-.css
