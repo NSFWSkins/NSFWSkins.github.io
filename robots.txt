@@ -2,7 +2,3 @@ User-agent: *
 Allow: /
 
 Sitemap: https://nsfwskins.github.io/sitemap.xml
-
-Disallow: /urls.bin
-Disallow: /urls.hex
-Disallow: /-.css
